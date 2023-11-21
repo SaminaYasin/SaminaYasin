@@ -1,10 +1,11 @@
+![logo](https://github.com/SaminaYasin/SaminaYasin/blob/main/3.jpg)
 <h1 align="center">Hi 👋, I'm Samina Yasin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <img
   align="right"
   alt="coding"
-  width="400"
+  width="200"
   src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif"
 />
 <p align="left">
