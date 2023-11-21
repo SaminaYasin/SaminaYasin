@@ -1,4 +1,4 @@
-![logo](https://github.com/SaminaYasin/SaminaYasin/blob/main/3.jpg)
+![logo](https://github.com/SaminaYasin/SaminaYasin/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Samina Yasin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
