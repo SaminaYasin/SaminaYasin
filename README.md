@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samina Yasin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw0a-5pDJohlRnyKNJiPTq6I&ust=1700665213242000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDJsrLc1oIDFQAAAAAdAAAAABAE"
+<img
+  align="right"
+  alt="coding"
+  width="400"
+  src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif"
+/>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=saminayasin&label=Profile%20views&color=0e75b6&style=flat"
